@@ -1,1 +1,2 @@
-My First Repo
+# My Python Project
+# my-repo
